@@ -217,13 +217,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- Hassan Mansuri - Lead Developer
+- Omsingh Bais - Lead Developer
 - Samiksha Gaiki - UI/UX Designer
 
 
 ## 📞 Support
 
-For support, email hassanmansuri570@gmail.com
+For support, email msnghbais@gmail.com
 
 ---
 
